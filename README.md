@@ -22,7 +22,7 @@
 <p align="left">
   <!-- Email -->
   <a href="mailto:mohammed.mharzi1@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40" style="margin-right:10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40" style="margin-right:10px;" />
   </a>
 
   <!-- LinkedIn -->
@@ -40,6 +40,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" />
   </a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
