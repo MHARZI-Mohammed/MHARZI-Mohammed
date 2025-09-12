@@ -18,29 +18,28 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohammed-mharzi/](https://www.linkedin.com/in/mohammed-mharzi/)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <!-- Email -->
   <a href="mailto:mohammed.mharzi1@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" height="40" width="40" style="margin:5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40" style="margin-right:10px;" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mohammed-mharzi/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" style="margin:5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right:10px;" />
   </a>
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=61559402616104" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" style="margin:5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" style="margin-right:10px;" />
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/mohammed.mharzi1/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" style="margin:5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" />
   </a>
 </p>
-
 
 <h3 align="center">Languages and Tools:</h3>
 
