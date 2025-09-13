@@ -4,23 +4,18 @@
 <div align="center" width="50">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/><br> 
 <div/>
-<h3 align="left">A passionate Full Stack developer from Morocco.</h3>
+<h3 align="center">A passionate Full Stack developer from Morocco.</h3>
+<div align="left">
 
-- 🔭 I’m currently working on **MharziDev**
-
-- 🌱 I’m currently learning **TypeScript,React Native**
-
+- 🌱 I’m currently learning **TypeScript, React Native**
 - 👯 I’m looking to collaborate on **MadeByMo**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MHARZI-Mohammed](https://github.com/MHARZI-Mohammed)
-
-- 📝 I regularly write articles on [https://www.instagram.com/mohammed.mharzi1/](https://www.instagram.com/mohammed.mharzi1/)
-
-- 💬 Ask me about **JavaScript,Php,React,Laravel,Express.js,Node.js,MongoDb**
-
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/MHARZI-Mohammed)
+- 📝 I regularly write articles on [Instagram](https://www.instagram.com/mohammed.mharzi1/)
+- 💬 Ask me about **JavaScript, Php, React, Laravel, Express.js, Node.js, MongoDb**
 - 📫 How to reach me **mohammed.mharzi1@gmail.com**
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mohammed-mharzi/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohammed-mharzi/](https://www.linkedin.com/in/mohammed-mharzi/)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
