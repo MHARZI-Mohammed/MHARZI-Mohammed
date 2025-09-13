@@ -1,5 +1,9 @@
-
-<h1 align="center">Hi 👋, I'm MHARZI Mohammed</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=D1FE17&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hello+Coders!+✨;+I'm+Mohammed+MHARZI;" />
+</h1>
+<div align="center" width="50">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/><br> 
+<div/>
 <h3 align="center">A passionate Full Stack developer from Morocco.</h3>
 
 - 🔭 I’m currently working on **MharziDev**
