@@ -5,7 +5,7 @@
 <div align="center" width="50">
 <img src="https://camo.githubusercontent.com/388903de1eca0fe0b7a375b23f3988d12f0fd7d24bafad5ec3e07a96f2e9e150/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" alt="CoDiNg RocKs"  width="50%"/><br> 
 <div/>
-<h3 align="center">A passionate Full Stack developer from Morocco.</h3>
+<h3 align="center">A passionate Full Stack Web developer from Morocco.</h3>
 <div align="left">
 
 - 🌱 I’m currently learning **TypeScript, React Native , Selenium**
