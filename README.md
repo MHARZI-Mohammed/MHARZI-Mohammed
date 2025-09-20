@@ -8,13 +8,13 @@
 <h3 align="center">A passionate Full Stack Web developer from Morocco.</h3>
 <div align="left">
 
-- 🌱 I’m currently learning **TypeScript, React Native , Selenium**
-- 👯 I’m looking to collaborate on **MadeByMo**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/MHARZI-Mohammed)
-- 📝 I regularly write articles on [Instagram](https://www.instagram.com/mohammed.mharzi1/)
-- 💬 Ask me about **JavaScript, Php, React, Laravel, Express.js, Node.js, MongoDb**
-- 📫 How to reach me **mohammed.mharzi1@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mohammed-mharzi/)
+- 🌱 **I’m currently learning TypeScript, React Native , Selenium**
+- 👯 **I’m looking to collaborate on MadeByMo**
+- 👨‍💻 **All of my projects are available at [GitHub](https://github.com/MHARZI-Mohammed)**
+- 📝 **I regularly write articles on [Instagram](https://www.instagram.com/mohammed.mharzi1/)**
+- 💬 **Ask me about JavaScript, Php, React, Laravel, Express.js, Node.js, MongoDb**
+- 📫 **How to reach me mohammed.mharzi1@gmail.com**
+- 📄 **Know about my experiences [LinkedIn](https://www.linkedin.com/in/mohammed-mharzi/)**
 
 </div>
 
