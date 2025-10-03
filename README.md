@@ -9,7 +9,7 @@
 <div align="left">
 
 - 🌱 **I’m currently learning TypeScript, Next.Js, React Native, Selenium**
-- 👯 **I’m looking to collaborate on MadeByMo**
+- 👯 **I’m looking to collaborate on MharziDev**
 - 👨‍💻 **All of my projects are available at [GitHub](https://github.com/MHARZI-Mohammed)**
 - 📝 **I regularly write articles on [Instagram](https://www.instagram.com/mohammed.mharzi1/)**
 - 💬 **Ask me about JavaScript, Php, Sql, React, Laravel, Express.js, Node.js, MongoDb**
