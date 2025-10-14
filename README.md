@@ -14,7 +14,7 @@
 - 📝 **I regularly write articles on [Instagram](https://www.instagram.com/mohammed.mharzi1/)**
 - 💬 **Ask me about JavaScript, TailwindCSS, ReactJS, Express.js, Node.js, MongoDb**
 - 📫 **How to reach me mohammed.mharzi1@gmail.com**
-- 📄 **Know about my experiences [LinkedIn](https://www.linkedin.com/in/mohammed-mharzi/)**
+- 📄 **Know about my experiences [LinkedIn](https://www.linkedin.com/in/mohammed-mharzi/) [Portfolio](https://mharzi.vercel.app/)**
 
 </div>
 
