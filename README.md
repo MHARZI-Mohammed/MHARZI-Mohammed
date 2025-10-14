@@ -12,7 +12,7 @@
 - 👯 **I’m looking to collaborate on MharziDev**
 - 👨‍💻 **All of my projects are available at [GitHub](https://github.com/MHARZI-Mohammed)**
 - 📝 **I regularly write articles on [Instagram](https://www.instagram.com/mohammed.mharzi1/)**
-- 💬 **Ask me about JavaScript, ReactJS, Express.js, Node.js, MongoDb**
+- 💬 **Ask me about JavaScript, TailwindCSS, ReactJS, Express.js, Node.js, MongoDb**
 - 📫 **How to reach me mohammed.mharzi1@gmail.com**
 - 📄 **Know about my experiences [LinkedIn](https://www.linkedin.com/in/mohammed-mharzi/)**
 
