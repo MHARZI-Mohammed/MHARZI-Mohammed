@@ -62,19 +62,21 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MHARZI-Mohammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=00ff7f&text_color=00ff7f&icon_color=ffffff&bg_color=000000&order=1" 
-    width="400" 
-    alt="stats graph" 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MHARZI-Mohammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=00ff7f&text_color=00ff7f&icon_color=ffffff&bg_color=000000&order=0"
+    width="450"
+    alt="stats graph"
+    style="margin-right: 20px;"
   />
-
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=MHARZI-Mohammed&locale=en&layout=compact&card_width=320&langs_count=5&hide_border=false&bg_color=000000&title_color=00ff7f&text_color=00ff7f&icon_color=ffffff"
-    width="350" 
-    alt="languages graph" 
+    width="365"
+    alt="languages graph"
   />
 </div>
+
+
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MHARZI-Mohammed&radius=16&theme=react-dark&area=true&color=00ff99&line=00ff99&point=00ff99&bg_color=0d1117&title_color=00ff99&area_color=003300" height="300" alt="activity-graph graph" />
