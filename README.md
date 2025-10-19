@@ -62,7 +62,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MHARZI-Mohammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=MHARZI-Mohammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=00ff7f&text_color=00ff7f&icon_color=ffffff&bg_color=000000&order=1" height="150" alt="stats graph" />
+
+
   <img 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=MHARZI-Mohammed&locale=en&layout=compact&card_width=320&langs_count=5&hide_border=false&bg_color=0d1117&title_color=00ff99&text_color=00ff99&icon_color=00ff99"
   height="150" 
