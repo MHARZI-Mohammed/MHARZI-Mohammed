@@ -63,6 +63,11 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MHARZI-Mohammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MHARZI-Mohammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=MHARZI-Mohammed&locale=en&layout=compact&card_width=320&langs_count=5&hide_border=false&bg_color=0d1117&title_color=00ff99&text_color=00ff99&icon_color=00ff99"
+  height="150" 
+  alt="languages graph" 
+/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MHARZI-Mohammed&radius=16&theme=react-dark&area=true&color=00ff99&line=00ff99&point=00ff99&bg_color=0d1117&title_color=00ff99&area_color=003300" height="300" alt="activity-graph graph" />
 </div>
