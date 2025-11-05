@@ -75,9 +75,5 @@
     alt="languages graph"
   />
 </div>
-
-
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MHARZI-Mohammed&radius=16&theme=react-dark&area=true&color=00ff99&line=00ff99&point=00ff99&bg_color=0d1117&title_color=00ff99&area_color=003300" height="300" alt="activity-graph graph" />
 </div>
