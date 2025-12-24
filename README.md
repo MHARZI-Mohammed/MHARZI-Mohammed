@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Full Stack Web developer from Morocco.</h3>
 <div align="left">
 
-- 🌱 **I’m currently learning TypeScript, React Native**
+- 🌱 **I’m currently learning TypeScript, React Native, ElectronJs**
 - 👯 **I’m looking to collaborate on MharziDev**
 - 👨‍💻 **All of my projects are available at [GitHub](https://github.com/MHARZI-Mohammed)**
 - 📝 **I regularly write articles on [Instagram](https://www.instagram.com/mohammed.mharzi1/)**
