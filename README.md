@@ -1,6 +1,6 @@
 <div style="background-color: #f0f0f0;">
     <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&color=535a67&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hello+Coders!+✨;+I'm+Mohammed+MHARZI;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&color=535a67&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hello+Coders!+✨;+I'm+Mohammed+MHARZI;+MERN+Stack+Developer" />
 </h1>
     
 <div align="center" width="50">
