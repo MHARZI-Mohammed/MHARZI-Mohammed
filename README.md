@@ -10,12 +10,12 @@
 <div align="left">
 
 - 🌱 **I’m currently learning TypeScript, ReactNative, ElectronJs**
-- 👯 **Founder of MSolution.ma**
+- 👯 **Founder of msolution.ma**
 - 👨‍💻 **All of my projects are available at [GitHub](https://github.com/MHARZI-Mohammed)**
 - 📝 **I regularly write articles on [Instagram](https://www.instagram.com/mohammed.mharzi1/)**
 - 💬 **Ask me about JavaScript, TailwindCSS, ReactJS, Express.JS, Node.JS and MongoDB**
 - 📫 **How to reach me mohammed.mharzi1@gmail.com**
-- 📄 **Know about my experiences [Portfolio](https://mharzi.vercel.app/)**
+- 📄 **Know about my experiences [Portfolio](https)**
 
 </div>
 
