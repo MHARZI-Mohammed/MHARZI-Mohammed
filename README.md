@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Full Stack Web developer from Morocco.</h3>
 <div align="left">
 
-- 🌱 **I’m currently learning TypeScript, ReactNative, ElectronJs**
+- 🌱 **I’m currently learning ReactNative, ElectronJs**
 - 👯 **Founder of msolution.ma**
 - 👨‍💻 **All of my projects are available at [GitHub](https://github.com/MHARZI-Mohammed)**
 - 📝 **I regularly write articles on [Instagram](https://www.instagram.com/mohammed.mharzi1/)**
